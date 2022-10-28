@@ -1,4 +1,4 @@
-# Asistencia_Programaci-nUTN
+# Asistencia_Programacion-UTN
 Asistencia
 Bogado Nicolas
 Cabral Ayelen
