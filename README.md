@@ -1,19 +1,19 @@
 # Asistencia_Programacion-UTN
 
-Integrantes Grupo Programacion UTN:
+⁍ Integrantes Grupo Programacion UTN: ⁌
 
-Bogado Nicolas
+      ⚫ Bogado Nicolas
 
-Cabral Ayelen
+      ⚫ Cabral Ayelen
+  
+      ⚫ Nahuel Alanis
 
-Nahuel Alanis
+      ⚫ Camila Gonzales
 
-Camila Gonzales
+      ⚫ Eduardo Montes
+ 
+      ⚫ Nadia Cruz
 
-Eduardo Montes
+      ⚫ Cintia Contreras
 
-Nadia Cruz
-
-Cintia Contreras
-
-Joaquin Zabala
+      ⚫ Joaquin Zabala
