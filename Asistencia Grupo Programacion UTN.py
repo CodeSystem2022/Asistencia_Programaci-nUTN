@@ -73,3 +73,7 @@ altura = int(input('Ingrese la altura del rectángulo: '))
 base = int(input('Ingrese la base del rectángulo: '))
 area = Rectangulo(altura, base)
 print(f'El área del rectángulo es: {area1.area():.2f}')
+
+"""
+----------------------------------------------------------------------------------------------------
+"""
