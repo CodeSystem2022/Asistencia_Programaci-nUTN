@@ -6,7 +6,7 @@
 
       ⚫ Cabral Ayelen
   
-      ⚫ Nahuel Alanis
+      ⚫ Nahuel Alaniz
 
       ⚫ Camila Gonzales
 
